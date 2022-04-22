@@ -8,9 +8,9 @@
 
 ### Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-´´´
+```
 git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
-´´´
+```
 
 ## Usage
 
@@ -18,10 +18,10 @@ git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
 
 ### Linux için:
 
-´´´
+```
 cd kodluyoruzilkrepo
 code .
-´´´
+```
 
 ## Contributing
 
